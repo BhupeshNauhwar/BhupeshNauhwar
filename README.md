@@ -1,13 +1,12 @@
 <div align="center">
 
-# 🌟 Welcome to Bhupesh Kumar's Digital Universe 🌟
+# 🌟 Welcome to Bhupesh Kumar's Profile 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;GenAI+Enthusiast+%F0%9F%A4%96;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+the+Future+with+AI+%F0%9F%8C%9F" alt="Typing SVG" />
+**Full-Stack Developer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bhupeshkumar&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/bhupeshkumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bhupesh-kumar-809b05241/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bhupeshkumar052000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/bhupeshkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-kumar-809b05241/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshkumar052000@gmail.com)
 
 </div>
 
@@ -15,13 +14,12 @@
 
 ## 💼 About Me
 
-**Passionate Full-Stack Developer** with expertise in modern web technologies and a revolutionary focus on **GenAI-powered development**. I specialize in building scalable applications across multiple technology stacks and have hands-on experience with cloud platforms, microservices architecture, and AI-driven development workflows.
+**Passionate Full-Stack Developer** with expertise in modern web technologies and GenAI-powered development. I specialize in building scalable applications across multiple technology stacks with hands-on experience in cloud platforms, microservices architecture, and AI-driven development workflows.
 
 - 🔭 Currently working on **GenAI Agent Mode projects** and **cross-technology migrations**
 - 🌱 Exploring **AI-powered development**, **microservices architecture**, and **cloud-native solutions**
 - 💡 Passionate about **clean code**, **system design**, and **emerging technologies**
-- 🎯 Average in **Data Structures & Algorithms** but strong in **practical implementation**
-- 📫 Open to **collaboration** and **innovative projects**
+- 🤝 Open to **collaboration** and **innovative projects**
 
 ---
 
@@ -51,7 +49,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 <td align="center">
@@ -67,7 +64,6 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </td>
@@ -81,11 +77,10 @@
 </tr>
 </table>
 
-### ☁️ DevOps & Cloud Technologies
+### ☁️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -94,24 +89,7 @@
 
 ---
 
-## 🏆 Key Achievements
-
-### 🤖 GenAI Development Excellence
-- ✅ **Zero Manual Coding** - 100% AI-generated enterprise applications
-- ✅ **Cross-Technology Mastery** - Seamless migrations between Java, .NET, React, Node.js
-- ✅ **Architectural Intelligence** - AI-driven monolith to microservices transformation
-- ✅ **Production Quality** - Enterprise-ready applications from prompts alone
-- ✅ **Innovation Leadership** - Pioneering AI-powered development workflows
-
-### 📈 Development Impact
-- 🚀 **10x Faster Development** - Complete applications in hours, not weeks
-- ⚡ **Instant Technology Migration** - Cross-platform transitions in minutes
-- 🎯 **Consistent Quality** - AI maintains coding standards across all technologies
-- 📚 **Knowledge Acceleration** - Multiple tech stacks mastered simultaneously
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -136,6 +114,19 @@
 
 ---
 
+## 🏆 Key Achievements
+
+### 🤖 GenAI Development Excellence
+- ✅ **Zero Manual Coding** - 100% AI-generated enterprise applications
+- ✅ **Cross-Technology Mastery** - Seamless migrations between Java, React, Node.js
+- ✅ **Architectural Intelligence** - AI-driven monolith to microservices transformation
+- ✅ **Production Quality** - Enterprise-ready applications from prompts alone
+
+### 📈 Development Impact
+- 🚀 **10x Faster Development** - Complete applications in hours, not weeks
+- ⚡ **Instant Technology Migration** - Cross-platform transitions in minutes
+- 🎯 **Consistent Quality** - AI maintains coding standards across all technologies
+
 ---
 
 ## 🌟 What Makes Me Different
@@ -144,7 +135,6 @@
 - 🔄 **Technology Agnostic** - Seamlessly work across multiple tech stacks
 - 🏗️ **Architecture Focused** - Strong understanding of scalable system design
 - 📚 **Continuous Learner** - Always exploring cutting-edge technologies
-- 🤝 **Collaborative Spirit** - Open to innovative projects and partnerships
 
 ---
 
@@ -167,12 +157,6 @@
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/bhupeshkumar">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br><strong>GitHub</strong>
-</a>
-</td>
-<td align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 <br><strong>Portfolio</strong>
@@ -182,7 +166,7 @@
 </table>
 
 ### 💬 Open to discussing:
-🤖 GenAI Development Opportunities | 🚀 Full-Stack Projects | 🏗️ Architecture Consulting | 🌟 Open Source Collaborations
+🤖 GenAI Development Opportunities | 🚀 Full-Stack Projects | 🏗️ Architecture Consulting
 
 </div>
 
@@ -191,8 +175,6 @@
 <div align="center">
 
 ### 🚀 "Building the future, one line of code at a time"
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
 
 **⭐ If you find my work interesting, please consider giving my repositories a star! ⭐**
 
