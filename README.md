@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;GenAI+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bhupeshkumar&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/bhupeshkumar)
+[![Profile Views](https://komarev.com/ghpvc/?username=BhupeshNauhwar&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/BhupeshNauhwar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-kumar-809b05241/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshkumar052000@gmail.com)
 
