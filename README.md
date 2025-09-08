@@ -167,6 +167,6 @@
 
 *Built with 🤖 GenAI Agent Mode and ❤️ for clean code*
 
-**© 2024 Bhupesh Kumar - Crafting Digital Excellence**
+**© 2025 Bhupesh Kumar - Crafting Digital Excellence**
 
 </div>
