@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to Bhupesh Kumar's Profile 🌟
 
-**Full-Stack Developer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;GenAI+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bhupeshkumar&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/bhupeshkumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-kumar-809b05241/)
@@ -93,20 +93,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=bhupeshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
