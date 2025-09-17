@@ -89,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BhupeshNauhwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupeshNauhwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
 ---
 
 ## 🏆 Key Achievements
@@ -144,7 +134,7 @@
 </a>
 </td>
 <td align="center">
-<a href="#">
+<a href="https://portfolio-mocha-omega-1b0fxrcck5.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 <br><strong>Portfolio</strong>
 </a>
